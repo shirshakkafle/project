@@ -6,8 +6,6 @@ lucky the racer
 Merge conflict solved
 hello i succesfully solve merge conflict
 Hello i am shirshak
-<<<<<<< HEAD
-
-=======
+Babita has check
 I am not able to fetch
->>>>>>> 4372cf07cf7d64ec4f59e19364c1858f6cfb5630
+
