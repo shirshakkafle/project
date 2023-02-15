@@ -4,7 +4,5 @@ i am ready
 lucky the racer
 Merge conflict solved
 <<<<<<< HEAD
-
-=======
 started
 >>>>>>> 86d59b291f5474d1db412846d5ba5e8706dec7c7
